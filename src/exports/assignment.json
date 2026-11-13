@@ -1,0 +1,43 @@
+{
+ "mssv": "202603315",
+ "ten": "DangThiVanLy",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "VanLy",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000072098.jpg",
+  "000000176000.jpg",
+  "000000493741.jpg",
+  "000000525227.jpg",
+  "000000558066.jpg",
+  "000000090646.jpg",
+  "000000189365.jpg",
+  "000000467300.jpg",
+  "000000043719.jpg",
+  "000000480582.jpg",
+  "000000572411.jpg",
+  "000000309169.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_145751.jpg",
+  "face_300399.jpg",
+  "face_105668.jpg",
+  "face_476363.jpg",
+  "face_345145.jpg",
+  "face_296767.jpg",
+  "face_38721.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 4,
+   "job_id": 4,
+   "task_name": "persons-DangThiVanLy"
+  },
+  "faces": {
+   "task_id": 5,
+   "job_id": 5,
+   "task_name": "faces-DangThiVanLy"
+  }
+ }
+}
